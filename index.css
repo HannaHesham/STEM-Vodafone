@@ -1,0 +1,116 @@
+body {
+	background-color:lightgrey; 
+}
+h2 {
+	color: red ;
+	text-align: left; 
+    font-family: calibri;
+}
+
+p {
+	font-family: calibri;
+	font-size: 15px;
+	color: black;
+	margin-right: 10%
+	margin-left: 10%
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+   
+
+h1 {
+	font-family:calibri; 
+	text-align:center;
+	color: red;
+}
+
+#stemex img{
+	width: 40%
+    }
+
+.stem{ display: block;
+ margin-right: 10%;
+ margin-left: 10%;
+ width: 20% }
+
+ IMG.title{display: block;
+ margin-right: auto;
+ margin-left: auto;
+ width: 30%;}
+
+ #sondos p {margin-right: 5cm;}
+
+li{color: blue; 
+font-style: calibri;
+}
+
+
+ .myparagraph{
+ 	margin-left: 10%;
+ 	margin-right: 10%;
+ 	font-family:calibri;
+ }
+
+#mycontainer{width: 750px;
+height: 100%;
+}
+
+.aboutus{color: black;
+font-family: calibri;
+margin-right: 10%;
+margin-left: 10%;}
+
+h1{text-align: center; 
+font-family: calibri; 
+color: red;
+
+.Introduction{color: black;}
+
+IMG.stem{ float: center;
+#sondos { font-style: calibri} 
+
+.Hanna { font-style: calibri;}
+
+
+
+#Hintro {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.fa {
+    padding: 420px;;
+    width: 70px;
+    font-size: 70px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+#socials {
+	margin-top: 300px; 
+}
+
+
+
